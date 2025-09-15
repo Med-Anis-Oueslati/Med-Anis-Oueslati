@@ -1,8 +1,17 @@
 # 👋 Hi there! I'm Mohamed Anis Oueslati
-
 ### 🤖 AI Engineer | Recent Graduate | Tech Enthusiast
 
-Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybersecurity, and building innovative solutions that make a real impact.
+Welcome to my GitHub profile! I'm passionate about Artificial Intelligence and building innovative solutions that make a real impact.
+
+---
+
+## 🎯 Agentic AI Focus: LangChain & LangGraph
+
+**🛠️ My current expertise centers on cutting-edge agentic AI technologies:**
+- 🌟 **LangChain**: Framework for developing advanced conversational and retrieval-augmented agents.
+- 🌟 **LangGraph**: Next-gen agent workflow orchestration, enabling complex legal and information search solutions.
+
+*I'm actively building multi-agent solutions that use LangChain and LangGraph for scalable, modular agent workflows. If you share an interest in agentic systems—or want to collaborate on innovative AI projects—let's connect!*
 
 ---
 
@@ -44,14 +53,13 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybe
 ### 🤖 AI Specialties
 - 🧠 Machine Learning & Deep Learning
 - 🤖 Generative AI & RAG Systems
-- 🎯 Agentic AI Development
-- 🔍 Computer Vision & Audio Processing
+- 🎯 Agentic AI Development (LangChain, LangGraph)
 
 ---
 
 ## 💼 Professional Experience
 
-### 🛡️ **Talan Consulting** - *End of Studies Internship*
+### 🛡️ **Talan Consulting** - *Data Engineering/AI Intern*
 *Feb 2025 – May 2025*
 - Built real-time cybersecurity threat analysis systems
 - Developed multi-agent systems with automated threat detection
@@ -63,7 +71,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybe
 - Cyber-threat detection using Vision Transformers
 - Audio malware detection research
 
-### 🗣️ **Knowlepsy** - *Summer Intern*
+### 🗣️ **Knowlepsy** - *ML Intern*
 *Jun 2024 – Aug 2024*
 - Advanced speech emotion classification systems
 - Applied CNNs and SVMs for emotion detection
@@ -95,7 +103,6 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybe
 ---
 
 ## 🏆 Leadership & Community
-
 - 🤖 **President** - ENSI Robotics Association (2023-2024)
 - 📋 **Peer Auditor** - ASIIN Accreditation Programs (2024-2025)
 - 🎯 **Logistics Manager** - Positive and Sociable Citizens Club (2022-2023)
@@ -103,22 +110,10 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybe
 ---
 
 ## 📫 Let's Connect!
-
-- 📧 Email: mohamedanis.oueslati@ensi-uma.tn
+- 📧 Email: [mohamedanis.oueslati@ensi-uma.tn](mailto:mohamedanis.oueslati@ensi-uma.tn)
 - 💼 LinkedIn: [mohamedanis-oueslati](https://linkedin.com/in/mohamedanis-oueslati)
 - 📱 Phone: (+216) 99 120 507
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohamed Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Anis-Oueslati&show_icons=true&theme=radical)
-
----
-
-### 🎯 Current Focus
-I'm currently exploring advanced AI applications in cybersecurity and working on innovative multi-agent systems. Always excited to collaborate on projects involving AI, machine learning, and cutting-edge technology!
-
----
-
-*⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!*
+*⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on agentic AI systems or anything exciting!*
