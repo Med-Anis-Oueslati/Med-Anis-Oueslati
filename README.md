@@ -1,57 +1,124 @@
-# 👋 Hi, I'm Mohamed Anis Oueslati
+# 👋 Hi there! I'm Mohamed Anis Oueslati
 
-🎓 Computer Science Engineering Student @ ENSI  
-🧠 GenAI Explorer | ⚙️ Data Engineering Enthusiast
+### 🤖 AI Engineer | Recent Graduate | Tech Enthusiast
 
----
-
-## 🚀 About Me
-
-I'm a hands-on, impact-driven engineer blending **Generative AI** with **real-time data engineering** to solve modern security and analytics challenges. From crafting multi-agent systems for automated threat detection to deploying AI-powered quiz generators, I build solutions that think, adapt, and scale.
-
-Currently, I'm developing **Falcon**, a full-stack **SIEM** system with an embedded **LLM-powered conversational agent**, anomaly detection pipeline, and mitigation automation—all.  
-
+Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybersecurity, and building innovative solutions that make a real impact.
 
 ---
 
-## 🛠️ Core Technologies
+## 🎓 Education
 
-### 💾 Data Engineering & Streaming
-- Apache Kafka · Spark Streaming · Snowflake · Fluentd · Docker · PostgreSQL · Grafana
+**🏫 National School of Computer Science, Manouba-Tunisia**  
+*Computer Science Engineering Degree - AI Specialty* | Sep 2022 - Jun 2025
 
-### 🤖 AI & Machine Learning
-- Generative AI · RAG · Agentic AI · CNN · Vision Transformers · SVM · Anomaly Detection
-
-### 🌐 Web & App Development
-- Flask · ReactJS · ExpressJS · MongoDB · REST APIs
-
-### 🧰 Tooling
-- Docker Compose · GitHub · RabbitMQ · Zeek · Linux (Ubuntu, Kali)
+**📚 Preparatory Institute of Engineering Studies of Nabeul**  
+*Ranked 42/610 in national engineering contest* | Sep 2020 - Jul 2022
 
 ---
 
-## 📌 Notable Projects
+## 🚀 What I'm Working With
 
-- **🛡️ Falcon SIEM** — Real-time threat detection system with AI agents, Grafana dashboard, and auto-mitigation actions.
-- **🧠 Emotion Classifier** — CNN-powered model for speech emotion recognition.
-- **🎨 Sketch2Image** — Cycle-GAN project translating sketches into realistic images.
-- **🧾 AI Quiz Generator** — Platform using GenAI to create custom quizzes for educators.
-- **📊 Customer Segmentation** — Unsupervised learning pipeline with clustering and dimensionality reduction.
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### 🧠 AI/ML Frameworks
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### 📊 Data Engineering & Visualization
+- 🔄 **Streaming**: Apache Kafka, RabbitMQ, Fluentd
+- ⚡ **Processing**: Apache Spark
+- 📈 **Visualization**: Grafana
+- 🗄️ **Databases**: MySQL, PostgreSQL, MongoDB, Snowflake
+
+### 🤖 AI Specialties
+- 🧠 Machine Learning & Deep Learning
+- 🤖 Generative AI & RAG Systems
+- 🎯 Agentic AI Development
+- 🔍 Computer Vision & Audio Processing
 
 ---
 
-## 📈 My Mission
+## 💼 Professional Experience
 
-> To engineer intelligent systems that elevate security, simplify analysis, and put the power of GenAI into human hands.
+### 🛡️ **Talan Consulting** - *End of Studies Internship*
+*Feb 2025 – May 2025*
+- Built real-time cybersecurity threat analysis systems
+- Developed multi-agent systems with automated threat detection
+- Created interactive SIEM dashboards
+- **Tech Stack**: Kafka, Spark, Snowflake, LangChain, LangGraph, Docker
+
+### 🔬 **Cyres.AI** - *Part-time AI Engineer*
+*Sep 2024 – Jan 2025*
+- Cyber-threat detection using Vision Transformers
+- Audio malware detection research
+
+### 🗣️ **Knowlepsy** - *Summer Intern*
+*Jun 2024 – Aug 2024*
+- Advanced speech emotion classification systems
+- Applied CNNs and SVMs for emotion detection
 
 ---
 
-## 🤝 Let's Connect
+## 🛠️ Featured Projects
 
-📧 mohamedanis.oueslati@ensi-uma.tn  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamedanis-oueslati-1bb664255/)  
+### 🎨 **Sketch-to-Real Image Translation**
+*Cycle-GAN implementation for converting sketches to realistic images*
+- **Tech**: PyTorch, Deep Learning, Computer Vision
+
+### 👥 **Customer Segmentation Platform**
+*Advanced clustering and dimensionality reduction*
+- **Tech**: PCA, t-SNE, UMAP, KMeans, Hierarchical Clustering
+
+### 📝 **AI Quiz Generation Platform**
+*Intelligent platform for automated quiz creation*
+- **Tech**: Generative AI, React, Express.js, MongoDB, Flask
 
 ---
 
-📍 _“AI isn’t just a tool. It's a teammate — when built right.”_
+## 🌍 Languages
+- 🇹🇳 Arabic (Native)
+- 🇬🇧 English (B2)
+- 🇫🇷 French (B2)
+- 🇩🇪 German (A1)
 
+---
+
+## 🏆 Leadership & Community
+
+- 🤖 **President** - ENSI Robotics Association (2023-2024)
+- 📋 **Peer Auditor** - ASIIN Accreditation Programs (2024-2025)
+- 🎯 **Logistics Manager** - Positive and Sociable Citizens Club (2022-2023)
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: mohamedanis.oueslati@ensi-uma.tn
+- 💼 LinkedIn: [mohamedanis-oueslati](https://linkedin.com/in/mohamedanis-oueslati)
+- 📱 Phone: (+216) 99 120 507
+
+---
+
+## 📊 GitHub Stats
+
+![Mohamed Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🎯 Current Focus
+I'm currently exploring advanced AI applications in cybersecurity and working on innovative multi-agent systems. Always excited to collaborate on projects involving AI, machine learning, and cutting-edge technology!
+
+---
+
+*⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate on something exciting!*
