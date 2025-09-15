@@ -112,7 +112,7 @@ Welcome to my GitHub profile! I'm passionate about Artificial Intelligence, cybe
 
 ## 📊 GitHub Stats
 
-![Mohamed Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Mohamed Anis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Med-Anis-Oueslati&show_icons=true&theme=radical)
 
 ---
 
